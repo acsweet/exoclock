@@ -4,3 +4,5 @@ requests
 notebook
 beautifulsoup4
 matplotlib
+ipywidgets
+plotly
